@@ -12,6 +12,7 @@ const STRUCTURE_TAGS = [
 
 const GENRES = [
   'Hip-Hop','Trap','Drill','R&B','Soul','Neo-Soul','Pop','Indie Pop',
+  'K-Pop','K-R&B','K-Hip-Hop','K-Ballad','J-Pop',
   'Rock','Alternative','Indie Rock','Hard Rock','Metal','Punk','Emo',
   'Country','Americana','Folk','Indie Folk','Electronic','House',
   'Techno','Lo-fi','Jazz','Blues','Gospel','Reggae','Dancehall',
@@ -23,12 +24,15 @@ const MOODS = [
   'Uplifting','Euphoric','Hype','Energetic','Romantic',
   'Sensual','Nostalgic','Chill','Relaxed','Mysterious',
   'Epic','Cinematic','Playful','Raw','Introspective',
+  'Cute','Girl Crush','Boy Group Energy','Dreamy','Bubbly',
+  'Longing','Bittersweet','Fierce','Tender','Whimsical',
 ]
 
 const VOCAL_STYLES = [
   'Smooth','Raspy','Gritty','Falsetto','Powerful','Belting',
   'Breathy','Melodic Rap','Trap Flow','Country Twang',
   'Spoken Word','Choir','Opera','Whispered','Intense',
+  'Airy','Sweet','Idol Tone','High Note','Ad-libs',
 ]
 
 const INSTRUMENTS = [
