@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# Suno Writer
 
-First, run the development server:
+**AI-assisted lyrics and song structure builder for Suno.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Genre picker · Mood selector · Vocal styles · Arrangement editor — write songs the way producers think.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## What It Does
 
-## Learn More
+Drop in a concept, pick your genre, mood, vocal style, and instruments — Suno Writer generates structured lyrics with proper Suno tags (`[Verse 1]`, `[Chorus]`, `[Bridge]`) ready to paste directly into Suno.
 
-To learn more about Next.js, take a look at the following resources:
+Arrange first. Write after. The way it should work.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Features
 
-## Deploy on Vercel
+- **40+ genres** — Hip-Hop, Trap, R&B, K-Pop, Electronic, Country, Classical, and more
+- **Mood selector** — Dark, Uplifting, Nostalgic, Fierce, Cinematic, Chill, and more
+- **Vocal styles** — Smooth, Raspy, Falsetto, Melodic Rap, Idol Tone, and more
+- **Instruments** — 808s, Guitar, Piano, Synths, Strings, Brass, and more
+- **Arrangement editor** — drag-and-drop structure with Suno-ready section tags
+- **Lyrics view** — clean formatted output, copy-ready for Suno
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Stack
+
+Next.js · TypeScript · Claude AI · Tailwind CSS
+
+---
+
+<div align="center">
+
+**Creative Konsoles** · [creativekonsoles.com](https://creativekonsoles.com) · [@papjamzzz](https://github.com/papjamzzz)
+
+</div>
